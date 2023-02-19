@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "OPA209AID")(type "KiCad")(uri "${KIPRJMOD}/RMSensorLibrary/OPA209AID")(options "")(descr ""))
+  (lib (name "OPA2350UA")(type "KiCad")(uri "${KIPRJMOD}/RMSensorLibrary/OPA2350UA")(options "")(descr ""))
+  (lib (name "RMSensorConnectors")(type "KiCad")(uri "${KIPRJMOD}/RMSensorLibrary/RMSensorConnectors")(options "")(descr ""))
+)

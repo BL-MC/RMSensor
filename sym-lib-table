@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "OPA209AID")(type "KiCad")(uri "${KIPRJMOD}/RMSensorLibrary/OPA209AID/OPA209AID.kicad_sym")(options "")(descr ""))
+  (lib (name "OPA2350UA")(type "KiCad")(uri "${KIPRJMOD}/RMSensorLibrary/OPA2350UA/OPA2350UA.kicad_sym")(options "")(descr ""))
+)
