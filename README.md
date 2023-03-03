@@ -1,5 +1,5 @@
 # RM Sensor
-Using SMD 0805_2012 footprints for resistors and capacitors  
+31mm Diameter board using SMD 0805_2012 footprints for resistors and capacitors  
 ## Schematic
 ![Schematic](schem.png)
 ## PCB with no fill
